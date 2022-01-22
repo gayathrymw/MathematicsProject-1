@@ -1,4 +1,5 @@
 # MathematicsProject-1
+Student Grade Prediction using Linear Regression
 A Student Grade Prediction is a way of predicting a student grade based on his/her previous marks and various other parameters. 
 We can use machine learning for the student grades prediction task so that instructors can help students prepare for topics where student grades were predicted low. 
 The dataset used is "Student Performance Data Set"-"student-mat.csv"
